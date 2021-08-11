@@ -1,8 +1,8 @@
-#define DGAF_USE_SDL2
+#define USE_SDL2
 
-#if defined(DGAF_USE_SDL2)
+#if defined(USE_SDL2)
 //#include <SDL2/SDL.h>
-#elif defined(DGAF_USE_SDL1)
+#elif defined(USE_SDL1)
 //#include <SDL/SDL.h>
 #endif
 
