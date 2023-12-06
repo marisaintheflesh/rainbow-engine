@@ -1,4 +1,4 @@
-namespace dgaf
+namespace RainbowEngine
 {
 	double sqrt(double num)
 	{
